@@ -19,7 +19,7 @@
 - give this command ``` npm i ``` and ``` npm run report ```
 
 ## Documentation
-https://l.facebook.com/l.php?u=https%3A%2F%2Fdocumenter.getpostman.com%2Fview%2F25356274%2F2s8ZDeUJwA%3Ffbclid%3DIwAR3FCeXvrKm5r8goBifnwBWr7cqcaJgh_4nFxpqJZCJHTrjzQOYIHC1Tiws&h=AT2zY7iHqOOxE7_AyscI4lrcUr7-Ic94TxPNstuaVLAokEkPf4q8_rUPBAt1rh2qVcNyBASU6HkALo4aQhraUngkqDC3cPOuILmhUPwaeGX9zVbuR41wE6AlO3qvIDheNXvoyw
+https://documenter.getpostman.com/view/25356274/2s8ZDeUJwA?fbclid=IwAR23kNOJ4p_7TKGsMYkKoVRbw5F7VmIr1E5IblnT-f79J7eMfrHX3rFlBXA
 
 ## Test Cases
 https://docs.google.com/spreadsheets/d/1kdKHwV4JH-6W-NEdlzWjibj3lUUmjzqLWPx89ttIMw8/edit?usp=sharing
